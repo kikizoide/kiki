@@ -1,0 +1,8 @@
+:root {
+  --primary: #a04ffc;
+  --primary-dark: #9a35f8;
+  --secondary: #a04ffc;
+  --light: hsl(0, 0%, 94%);
+  --medium: #cacaca;
+  --dark: #a2a2a2;
+}
